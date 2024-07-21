@@ -1,0 +1,10 @@
+/Users/tae/Library/Mobile Documents/com~apple~CloudDocs/tae/rust/porqueno/target/debug/deps/libgloo_console-55d757b5729c641b.rmeta: /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/lib.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/console_dbg.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/counter.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/externs.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/macros.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/timer.rs
+
+/Users/tae/Library/Mobile Documents/com~apple~CloudDocs/tae/rust/porqueno/target/debug/deps/gloo_console-55d757b5729c641b.d: /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/lib.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/console_dbg.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/counter.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/externs.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/macros.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/timer.rs
+
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/lib.rs:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/console_dbg.rs:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/counter.rs:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/externs.rs:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/macros.rs:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/timer.rs:

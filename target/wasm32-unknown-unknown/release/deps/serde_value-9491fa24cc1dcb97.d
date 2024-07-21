@@ -1,0 +1,9 @@
+/Users/tae/Library/Mobile Documents/com~apple~CloudDocs/tae/rust/porqueno/target/wasm32-unknown-unknown/release/deps/libserde_value-9491fa24cc1dcb97.rmeta: /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-value-0.7.0/src/lib.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-value-0.7.0/src/de.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-value-0.7.0/src/ser.rs
+
+/Users/tae/Library/Mobile Documents/com~apple~CloudDocs/tae/rust/porqueno/target/wasm32-unknown-unknown/release/deps/libserde_value-9491fa24cc1dcb97.rlib: /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-value-0.7.0/src/lib.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-value-0.7.0/src/de.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-value-0.7.0/src/ser.rs
+
+/Users/tae/Library/Mobile Documents/com~apple~CloudDocs/tae/rust/porqueno/target/wasm32-unknown-unknown/release/deps/serde_value-9491fa24cc1dcb97.d: /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-value-0.7.0/src/lib.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-value-0.7.0/src/de.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-value-0.7.0/src/ser.rs
+
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-value-0.7.0/src/lib.rs:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-value-0.7.0/src/de.rs:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-value-0.7.0/src/ser.rs:

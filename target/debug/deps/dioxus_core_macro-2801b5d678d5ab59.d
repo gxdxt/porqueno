@@ -1,0 +1,9 @@
+/Users/tae/Library/Mobile Documents/com~apple~CloudDocs/tae/rust/porqueno/target/debug/deps/libdioxus_core_macro-2801b5d678d5ab59.dylib: /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/lib.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/component.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/props/mod.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/utils.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/../README.md
+
+/Users/tae/Library/Mobile Documents/com~apple~CloudDocs/tae/rust/porqueno/target/debug/deps/dioxus_core_macro-2801b5d678d5ab59.d: /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/lib.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/component.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/props/mod.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/utils.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/../README.md
+
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/lib.rs:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/component.rs:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/props/mod.rs:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/utils.rs:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/../README.md:

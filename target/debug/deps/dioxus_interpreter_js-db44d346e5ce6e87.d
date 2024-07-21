@@ -1,0 +1,9 @@
+/Users/tae/Library/Mobile Documents/com~apple~CloudDocs/tae/rust/porqueno/target/debug/deps/libdioxus_interpreter_js-db44d346e5ce6e87.rmeta: /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/lib.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/unified_bindings.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/../README.md /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/./js/core.js /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/./js/native.js
+
+/Users/tae/Library/Mobile Documents/com~apple~CloudDocs/tae/rust/porqueno/target/debug/deps/dioxus_interpreter_js-db44d346e5ce6e87.d: /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/lib.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/unified_bindings.rs /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/../README.md /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/./js/core.js /Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/./js/native.js
+
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/lib.rs:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/unified_bindings.rs:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/../README.md:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/./js/core.js:
+/Users/tae/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-interpreter-js-0.5.1/src/./js/native.js:
