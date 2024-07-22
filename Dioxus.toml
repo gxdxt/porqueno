@@ -14,7 +14,7 @@ out_dir = "docs"
 asset_dir = "assets"
 
 [web.app]
-base_path = "porqueno"
+
 # HTML title tag content
 title = "porqueno"
 
