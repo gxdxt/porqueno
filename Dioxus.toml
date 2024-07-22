@@ -1,7 +1,7 @@
 [application]
 
 # App (Project) Name
-name = "PQN F&B"
+name = "porqueno"
 
 # Dioxus App Default Platform
 # desktop, web
@@ -16,7 +16,7 @@ asset_dir = "assets"
 [web.app]
 base_path = "porqueno"
 # HTML title tag content
-title = "PQN F&B"
+title = "porqueno"
 
 [web.watcher]
 
