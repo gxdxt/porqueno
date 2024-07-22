@@ -10,8 +10,8 @@
 <body>
   <div id="main"></div>
   <script type="module">
-    import init from "/porqueno/assets/dioxus/porqueno.js";
-    init("/porqueno/assets/dioxus/porqueno_bg.wasm").then(wasm => {
+    import init from "/./assets/dioxus/porqueno.js";
+    init("/./assets/dioxus/porqueno_bg.wasm").then(wasm => {
       if (wasm.__wbindgen_start == undefined) {
         wasm.main();
       }
