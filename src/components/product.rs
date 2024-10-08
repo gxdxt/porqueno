@@ -1,5 +1,5 @@
 use dioxus::prelude::*;
-use crate::{components::{header::Header, footer::Footer}, routes::Route};
+use crate::{components::{header::Header, footer::Footer}};
 
 #[component]
 pub fn Product(id: i32) -> Element {

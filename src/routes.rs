@@ -6,6 +6,7 @@ pub enum Route {
     #[route("/")]
     Home {},
     #[route("/about")]
+    #[redirect("/:..segments", |segments: Vec<String>| Route::About {})]
     About {},
     #[route("/product/:id")]
     Product { id: i32 },
@@ -13,4 +14,9 @@ pub enum Route {
     Location {},
     #[route("/login")]
     Login {},
+}
+
+#[component]
+fn NotFound(segments: Vec<String>) -> Element {
+    todo!()
 }

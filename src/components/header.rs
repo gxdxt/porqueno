@@ -3,7 +3,7 @@ use crate::routes::Route;
 
 #[component]
 pub fn Header() -> Element {
-    let mut count = use_signal(|| 0);
+    let count = use_signal(|| 0);
 
     rsx! {
         div {
